@@ -1,0 +1,30 @@
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Release\BazaSQLTest.exe.config
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Release\BazaSQLTest.exe
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Release\BazaSQLTest.pdb
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Release\MySql.Data.dll
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Release\MySql.Data.xml
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.csprojResolveAssemblyReference.cache
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.Form1.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.FormDostawcy.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.FormKlienta.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.FormPracownik.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.Properties.Resources.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.csproj.GenerateResource.Cache
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.exe
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.pdb
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\bin\Release\BazaSQLTest.exe.config
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\bin\Release\BazaSQLTest.exe
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\bin\Release\BazaSQLTest.pdb
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\bin\Release\MySql.Data.dll
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\bin\Release\MySql.Data.xml
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.csprojResolveAssemblyReference.cache
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.Form1.resources
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.FormDostawcy.resources
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.FormKlienta.resources
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.FormPracownik.resources
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.Properties.Resources.resources
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.csproj.GenerateResource.cache
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.csproj.CoreCompileInputs.cache
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.csproj.CopyComplete
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.exe
+C:\Users\Kristin\Desktop\BazaSQLTest\BazaSQLTest\obj\Release\BazaSQLTest.pdb

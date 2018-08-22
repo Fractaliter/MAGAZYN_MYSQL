@@ -1,0 +1,14 @@
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Debug\BazaSQLTest.exe.config
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Debug\BazaSQLTest.exe
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Debug\BazaSQLTest.pdb
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Debug\MySql.Data.dll
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\bin\Debug\MySql.Data.xml
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.csprojResolveAssemblyReference.cache
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.Form1.resources
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.Properties.Resources.resources
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.csproj.GenerateResource.Cache
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.exe
+c:\users\kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.pdb
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.FormPracownik.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.FormDostawcy.resources
+C:\Users\Kristin\documents\visual studio 2017\Projects\BazaSQLTest\BazaSQLTest\obj\Debug\BazaSQLTest.FormKlienta.resources
